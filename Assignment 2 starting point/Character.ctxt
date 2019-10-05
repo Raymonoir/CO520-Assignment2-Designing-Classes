@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=desc\ it
+comment0.target=Character(java.lang.String,\ Item)
+comment0.text=\n\ Constructor\ initialising\ description\ and\ item.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Return\ the\ description\ and\ description\ of\ item\ if\ it\ exists.\n
+comment2.params=it
+comment2.target=boolean\ take(Item)
+comment2.text=\n\ Take\ the\ given\ item\ from\ the\ character\ if\ it\ has\ that\ item.\n\ Return\ whether\ item\ was\ taken.\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parser()
+comment0.text=\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\n
+comment1.params=
+comment1.target=Command\ getCommand()
+comment1.text=\n\ @return\ The\ next\ command\ from\ the\ user.\n
+comment2.params=tokenizer\ map
+comment2.target=java.lang.Object\ parseEnum(java.util.Scanner,\ java.util.HashMap)
+comment2.text=\n\ Parse\ an\ value\ of\ a\ type\ that\ is\ an\ Enum.\n\ The\ mapping\ from\ strings\ to\ values\ of\ the\ type\ is\ in\ the\ map.\n\ Pre-condition\:\ tokenizer\ is\ not\ null\ and\ map\ is\ not\ null.\n\ If\ parsing\ fails,\ the\ result\ is\ null.\n
+comment3.params=
+comment3.target=java.lang.String\ commands()
+comment3.text=\n\ Returns\ a\ list\ of\ valid\ commands.\n
+comment4.params=
+comment4.target=java.lang.String\ help()
+comment4.text=\n\ Returns\ name\ of\ help\ command.\n
+numComments=5
